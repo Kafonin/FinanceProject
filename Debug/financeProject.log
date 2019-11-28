@@ -1,0 +1,3 @@
+﻿  financeProject.cpp
+C:\Users\kafon\source\repos\financeProject\financeProject.cpp(31,20): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  financeProject.vcxproj -> C:\Users\kafon\source\repos\financeProject\Debug\financeProject.exe
